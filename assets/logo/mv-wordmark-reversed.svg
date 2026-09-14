@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-label="Marchbank &amp; Vale Associates">
+  <rect width="760" height="150" fill="#131E2C"/>
+  <text x="8" y="66" style="font-family:'Libre Caslon Display',Georgia,'Times New Roman',serif;font-size:58px;letter-spacing:5.2px;fill:#F5F4EF">MARCHBANK <tspan style="fill:#8F7238">&amp;</tspan> VALE</text>
+  <line x1="10" y1="92" x2="750" y2="92" stroke="#8F7238" stroke-width="1.25"/>
+  <text x="10" y="121" style="font-family:Inter,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:9.5px;fill:#9AA6B8">ASSOCIATES</text>
+</svg>
