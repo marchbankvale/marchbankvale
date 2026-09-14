@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Marchbank &amp; Vale Associates">
+  <rect width="1200" height="630" fill="#131E2C"/>
+  <rect x="48" y="48" width="1104" height="534" fill="none" stroke="#8F7238" stroke-width="1.25" opacity=".45"/>
+  <text x="600" y="296" text-anchor="middle"
+        style="font-family:'Libre Caslon Display',Georgia,serif;font-size:82px;letter-spacing:7px;fill:#F5F4EF">MARCHBANK <tspan fill="#C6A667">&amp;</tspan> VALE</text>
+  <line x1="300" y1="340" x2="900" y2="340" stroke="#8F7238" stroke-width="1.5"/>
+  <text x="600" y="382" text-anchor="middle"
+        style="font-family:Inter,Helvetica,Arial,sans-serif;font-size:20px;font-weight:500;letter-spacing:13px;fill:#9AA6B8">ASSOCIATES</text>
+  <text x="600" y="470" text-anchor="middle"
+        style="font-family:Inter,Helvetica,Arial,sans-serif;font-size:19px;font-weight:500;letter-spacing:4.6px;fill:#8F7238">RECOVERIES &amp; LITIGATION SUPPORT</text>
+</svg>

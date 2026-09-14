@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /signature.html
+
+Sitemap: https://marchbankvale.co.uk/sitemap.xml
