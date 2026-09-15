@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 150" role="img" aria-label="Marchbank &amp; Vale Associates">
+  <rect width="980" height="150" fill="#F5F4EF"/>
+  <g transform="translate(0 0) scale(0.29296875)">
+    <rect width="512" height="512" fill="#131E2C"/>
+    <rect x="28" y="28" width="456" height="456" fill="none" stroke="#8F7238" stroke-width="1.5" opacity=".55"/>
+    <text x="256" y="268" text-anchor="middle" style="font-family:'Libre Caslon Display',Georgia,'Times New Roman',serif;font-size:176px;fill:#F5F4EF;letter-spacing:2px">M<tspan fill="#C6A667">&amp;</tspan>V</text>
+    <line x1="150" y1="316" x2="362" y2="316" stroke="#8F7238" stroke-width="2"/>
+    <text x="256" y="366" text-anchor="middle" style="font-family:Inter,Helvetica,Arial,sans-serif;font-size:30px;font-weight:500;letter-spacing:7.5px;fill:#9AA6B8">ASSOCIATES</text>
+  </g>
+  <text x="192" y="70" style="font-family:'Libre Caslon Display',Georgia,'Times New Roman',serif;font-size:52px;letter-spacing:4.6px;fill:#131E2C">MARCHBANK <tspan style="fill:#8F7238">&amp;</tspan> VALE</text>
+  <line x1="194" y1="92" x2="964" y2="92" stroke="#8F7238" stroke-width="1.25"/>
+  <text x="194" y="119" style="font-family:Inter,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;letter-spacing:8.5px;fill:#47566B">ASSOCIATES  ·  RECOVERIES &amp; LITIGATION SUPPORT</text>
+</svg>

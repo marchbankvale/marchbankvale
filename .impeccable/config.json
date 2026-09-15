@@ -1,0 +1,20 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "createdAt": "2026-09-14T19:45:16.371Z",
+        "reason": "Project design system: Marchbank Vale brand is Libre Caslon plus Inter, set in the live site (assets/style.css) before this session"
+      },
+      {
+        "rule": "overused-font",
+        "value": "arial",
+        "createdAt": "2026-09-14T19:45:16.397Z",
+        "reason": "Email signature HTML: mail clients cannot load webfonts, so Arial/Helvetica is the required system fallback for the inline-styled table"
+      }
+    ]
+  }
+}
